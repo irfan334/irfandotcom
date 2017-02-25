@@ -48,8 +48,8 @@
     <style
        id="style10">
 	@font-face {
-    font-family: &quot;oldengl&quot;;
-    src: url(OLDENGL.ttf) format(&quot;truetype&quot;);
+    font-family: "oldengl";
+    src: url(OLDENGL.ttf) format("truetype");
 	}
 	</style>
     <filter
