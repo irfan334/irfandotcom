@@ -21,7 +21,7 @@ a, visited {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family:courier;
+	font-family:courbd;
 }
 
 #main {
@@ -176,3 +176,8 @@ footer {
     font-family: "mainfont";
     src: url(GOTHIC.ttf) format("truetype");
 }
+
+@font-face {
+    font-family: "courbd";
+    src: url(images/courbd.ttf) format("truetype");
+	}
